@@ -72,7 +72,7 @@ The objective of this project is to:
 ---
 
 ## 🚀 How to Run
-1. Clone this repository  
+ Clone this repository  
    ```bash
    git clone https://github.com/erharsh2104/rainfall-prediction.git
    cd rainfall-prediction
@@ -81,6 +81,8 @@ jupyter notebook Rainfall_Prediction_Project.ipynb
 
 ## ✨ Author
 👨‍💻 Harsh Tripathi
-Student, Indian Institute of Information Technology, Raichur, Karnataka
+
+  Engineering Student @ Indian Institute of Information Technology, Raichur, Karnataka
+
 📧 tripathiharsh2104@gmail.com
 
